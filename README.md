@@ -6,26 +6,32 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-764ABC?style=for-the-badge&logo=axum&logoColor=white)
 
-I am a backend software engineer specializing in highly optitmized building energy management systems using **Rust**, **Axum**, **postgreSQL**, and **AWS**. I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
+I am a backend software engineer specializing in highly optitmized building energy management systems using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on producing in-RAM caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data.
 
-### 📚 Background
+I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
+
+### Background
 - **Company:** EAN Technologies Co. Ltd
 - **Role:** Backend Software Engineer
 - **Education:** CS Alumni, Sungkyunkwan University
 
-### 💻 Technology Stack
+### Technology Stack
 - **Programming Languages:** Rust, C, C++, Java, Python
 - **Languages:** Korean (Native), English (C2)
 - **Frameworks:** Axum
 - **Platforms:** AWS, GCP
-- **DBs:**: PostgreSQL, MySQL
+- **DBs:**: PostgreSQL, MySQL, SQLite
 
-### 🚀 Interests
-- Web servers
+### Interests
+- Webservers
+- On-Prem Infrastructure
+- Cloud Infrastructure
+- CI/CD Pipelines
 - Command Line Interface (CLI) tools
+- Operating Systems
 - Modding
 
-### 🌱 I’m currently learning
+### Studying
 - Advanced AWS architectures
 - Performance optimization in Rust applications
 
