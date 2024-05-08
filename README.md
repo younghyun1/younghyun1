@@ -30,7 +30,7 @@ Aspiring towards system programming expertise and open-source ethics.
 
 ### Interests
 - Webservers
-- Caching
+- Cache Hierarchy
 - Effective Parallelism/Concurrency
 - **On-Prem Infrastructure**
 - Cloud Infrastructure
