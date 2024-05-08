@@ -9,7 +9,7 @@
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![postgreSQL](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=blue)
 
-I am a backend software engineer specializing in highly optitmized building energy management systems using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on producing in-RAM caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data.
+I am a backend software engineer specializing in integrating sensors, meters, appliances, and other systems in a construction engineering product context using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on producing in-RAM caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data.
 
 I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
 
