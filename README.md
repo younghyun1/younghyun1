@@ -34,5 +34,5 @@ I am a dedicated backend software engineer specializing in building energy manag
 
 ---
 
-![Chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
+![Chi's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghyun1&show_icons=true&theme=radical)
 
