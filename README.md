@@ -9,7 +9,7 @@
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![postgreSQL](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=blue)
 
-I am a junior backend software engineer specializing in integrating sensors, meters, appliances, and other systems in a construction engineering cloud product context using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally.
+I am a junior backend software engineer specializing in integrating sensors, meters, appliances, and other systems in a construction engineering cloud product context using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
 
 I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
 
