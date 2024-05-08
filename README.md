@@ -6,7 +6,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-764ABC?style=for-the-badge&logo=axum&logoColor=white)
 
-I am a dedicated backend software engineer specializing in building energy management systems using **Rust**, **Axum**, and **AWS**. I graduated from **Sungkyunkwan University** with a degree in Computer Science.
+I am a backend software engineer specializing in highly optitmized building energy management systems using **Rust**, **Axum**, **postgreSQL**, and **AWS**. I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
 
 ### 📚 Background
 - **Company:** EAN Technologies Co. Ltd
@@ -30,5 +30,5 @@ I am a dedicated backend software engineer specializing in building energy manag
 - Performance optimization in Rust applications
 
 ### 📫 How to reach me
-- LinkedIn: [YourLinkedIn]([https://linkedin.com](https://www.linkedin.com/in/younghyun-chi-a60b59a9/))
+- LinkedIn: [Chi Younghyun]([https://linkedin.com](https://www.linkedin.com/in/younghyun-chi-a60b59a9/))
 - Email: [younghyun1@gmail.com](mailto:younghyun1@gmail.com)
