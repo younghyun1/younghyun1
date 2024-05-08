@@ -2,9 +2,9 @@
 
 ## Backend Software Engineer at EAN Technologies Co. Ltd
 
-![Rust Programming](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Rust Programming](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=axum&logoColor=white)
 ![postgreSQL](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white)
