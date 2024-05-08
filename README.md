@@ -35,5 +35,5 @@ I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineerin
 - Advanced AWS architectures
 - Performance optimization in Rust applications
 
-### 📫 How to reach me
+### How to reach me
 - Email: [younghyun1@gmail.com](mailto:younghyun1@gmail.com)
