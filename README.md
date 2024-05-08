@@ -1,4 +1,4 @@
-# Hi, I'm Chi Younghyun 👋
+# Chi Younghyun / 지영현 / 池營賢
 
 ## Backend Software Engineer at EAN Technologies Co. Ltd
 
@@ -14,7 +14,8 @@ I am a dedicated backend software engineer specializing in building energy manag
 - **Education:** CS Alumni, Sungkyunkwan University
 
 ### 💻 Technology Stack
-- **Languages:** Rust, C, C++, Java, Python
+- **Programming Languages:** Rust, C, C++, Java, Python
+- **Languages:** Korean (Native), English (C2)
 - **Frameworks:** Axum
 - **Platforms:** AWS, GCP
 - **DBs:**: PostgreSQL, MySQL
