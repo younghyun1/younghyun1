@@ -26,7 +26,7 @@ Aspiring towards system programming expertise and open-source ethics.
 - **Languages:** Korean (Native), English (C2), French/German/Spanish/Mandarin (Rudimentary)
 - **Frameworks:** Axum, Express, Spring
 - **Platforms:** AWS, GCP, Oracle Cloud, Naver Cloud
-- **DBs:**: PostgreSQL, MySQL, SQLite, Redis...and the good old in-RAM lookup table.
+- **DBs:** PostgreSQL, MySQL, SQLite, Redis...and the good old in-RAM lookup table.
 
 ### Interests
 - Webservers
