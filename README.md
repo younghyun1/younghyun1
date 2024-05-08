@@ -18,7 +18,8 @@ Aspiring system programmer.
 ### Background
 - **Company:** EAN Technologies Co. Ltd
 - **Role:** Backend Software Engineer
-- **Education:** CS Alumni, Sungkyunkwan University
+- **Education:** B. Eng in Software Engineering, Sungkyunkwan University, Suwon, Republic of Korea
+- **Other Experiences:**: Soldier, interpreter, translator, logistics center worker, tutor/lecturer, photographer.
 
 ### Technology Stack
 - **Programming Languages:** Rust, C, C++, Java, Python
