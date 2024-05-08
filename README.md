@@ -30,5 +30,4 @@ I am a backend software engineer specializing in highly optitmized building ener
 - Performance optimization in Rust applications
 
 ### 📫 How to reach me
-- LinkedIn: [Chi Younghyun]([https://www.linkedin.com/in/younghyun-chi-a60b59a9/])
 - Email: [younghyun1@gmail.com](mailto:younghyun1@gmail.com)
