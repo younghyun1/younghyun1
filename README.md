@@ -29,7 +29,7 @@ Aspiring towards system programming expertise and open-source ethics.
 - **Company:** EAN Technologies Co. Ltd
 - **Role:** Backend Software Engineer
 - **Education:** B. Eng in Software Engineering, Sungkyunkwan University, Republic of Korea
-- **Other Experiences:**: Soldiering, interpretation, translation, logistics, tutoring/lecturing, photography
+- **Other Experiences:** soldiering, interpretation, translation, logistics, tutoring/lecturing, photography
 
 ### Technology Stack
 - **Programming Languages:** Rust, C, C++, Java, Python, x86 Assembly, JS, TS
