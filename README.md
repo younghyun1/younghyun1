@@ -8,6 +8,10 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=orange)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![postgreSQL](https://img.shields.io/badge/postgres-000000?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 I am a junior backend software engineer specializing in integrating sensors, meters, appliances, and other systems in a construction engineering cloud product context using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
 
