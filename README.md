@@ -19,11 +19,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-I am a software engineer specializing in integrating sensors, meters, appliances, and other systems in a construction engineering cloud product context using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
+I am a software engineer specializing in integrating sensors, meters, appliances, and other systems into construction engineering software services using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
 
-I graduated from **Sungkyunkwan University** with a B.Eng in Software Engineering.
+I graduated from **Sungkyunkwan University** with a B. Eng in Software Engineering.
 
-Aspiring towards system programming expertise and open-source ethics.
+Always aspiring towards system programming expertise and the upholding of open-source ethics.
 
 ### Background
 - **Company:** EAN Technologies Co. Ltd
