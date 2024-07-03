@@ -57,7 +57,5 @@ Always aspiring towards system programming expertise and the upholding of open-s
 - Electrical systems
 - HVAC systems
 
-[![Younghyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghyun1)](https://github.com/anuraghazra/github-readme-stats)
-
 ### How to reach me
 - Email: [younghyun1@gmail.com](mailto:younghyun1@gmail.com)
