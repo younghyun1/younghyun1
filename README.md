@@ -19,7 +19,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-I am a software engineer who did work with integrating sensors, meters, appliances, and other systems into construction engineering software services using **Rust**, **Axum**, **postgreSQL**, and **AWS**. MY efforts included researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
+I am a software engineer who did work with integrating sensors, meters, appliances, and other systems into construction engineering software services using **Rust**, **Axum**, **postgreSQL**, and **AWS**. My past efforts have included researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
 
 I graduated from **Sungkyunkwan University** with a B. Eng in Software Engineering.
 
