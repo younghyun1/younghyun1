@@ -1,6 +1,6 @@
 # Chi Younghyun / 지영현 / 池營賢
 
-## Backend Software Engineer at EAN Technologies Co. Ltd
+## Backend Software Engineer
 
 ![Rust Programming](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -19,14 +19,14 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-I am a software engineer specializing in integrating sensors, meters, appliances, and other systems into construction engineering software services using **Rust**, **Axum**, **postgreSQL**, and **AWS**. Currently, my efforts are focused on researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
+I am a software engineer who did work with integrating sensors, meters, appliances, and other systems into construction engineering software services using **Rust**, **Axum**, **postgreSQL**, and **AWS**. MY efforts included researching and applying caching strategies for a highly optimized BEMS service dealing with large amounts of real-time sensor data set to be deployed internationally. Experienced in managing and cutting down cloud infrastructure costs in fiscally constrained environments.
 
 I graduated from **Sungkyunkwan University** with a B. Eng in Software Engineering.
 
-Always aspiring towards system programming expertise and the upholding of open-source ethics.
+Always aspiring towards system programming expertise and the upholding of open-source ethics as well as the right of engineers everywhere in the world.
 
 ### Background
-- **Company:** EAN Technologies Co. Ltd
+- **Company:** Suggstions welcome!
 - **Role:** Backend Software Engineer
 - **Education:** B. Eng in Software Engineering, Sungkyunkwan University, Republic of Korea
 - **Other Experiences:** soldiering, interpretation, translation, logistics, tutoring/lecturing, photography
@@ -39,9 +39,9 @@ Always aspiring towards system programming expertise and the upholding of open-s
 - **DBs:** PostgreSQL, MySQL, SQLite, Redis...and the good old in-RAM lookup table.
 
 ### Interests
-- Webservers
+- High-Throughput Webservers
 - Cache Hierarchy
-- Effective Parallelism/Concurrency
+- **Effective Concurrency through Asynchronity and Parallelism**
 - **On-Prem Infrastructure**
 - Cloud Infrastructure
 - CI/CD
@@ -50,7 +50,7 @@ Always aspiring towards system programming expertise and the upholding of open-s
 - Compilers
 - Construction Engineering
 - Electrical Engineering
-- Modding
+- Video Game Modding
 
 ### Studying
 - Performance optimization in Rust applications
