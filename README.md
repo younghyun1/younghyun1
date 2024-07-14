@@ -23,7 +23,7 @@ I am a software engineer who did work with integrating sensors, meters, applianc
 
 I graduated from **Sungkyunkwan University** with a B. Eng in Software Engineering.
 
-Always aspiring towards system programming expertise and the upholding of open-source ethics as well as the right of engineers everywhere in the world.
+Always aspiring towards system programming expertise and the upholding of open-source ethics as well as the right of STEM workers everywhere in the world.
 
 ### Background
 - **Company:** Suggstions welcome!
