@@ -152,4 +152,4 @@ I am comfortable working in international, multilingual environments, including 
 
 - **Email:** [younghyun1@gmail.com](mailto:younghyun1@gmail.com)  
 - **GitHub:** [github.com/younghyun1](https://github.com/younghyun1)  
-- **LinkedIn:** [linkedin.com/in/younghyun-chi-a60b59a9](https://linkedin.com/in/younghyun-chi-a60b59a9)
+- **LinkedIn:** [linkedin.com/in/younghyun-chi-a60b59a9](https://www.linkedin.com/in/young-hyun-chi-553431376/)
