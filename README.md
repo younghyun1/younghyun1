@@ -10,7 +10,7 @@ I believe in building services that make effective use of modern hardware and pr
 
 ## Current work
 
-I develop backend services and internal tools, maintain cloud infrastructure and deployment pipelines, and work on monitoring, access controls, and other cybersecurity measures.
+I develop backend services and internal tools, maintain cloud infrastructure and deployment pipelines, and work on monitoring, access controls, and other cybersecurity measures in my role as DevOps lead and Rust Engineer.
 
 ## Earlier work
 
