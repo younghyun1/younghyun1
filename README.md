@@ -2,7 +2,7 @@
 
 **Cybersecurity · DevOps · Webservices · Developer tooling**
 
-I am a software engineer based in Colorado. At **Soundpatrol**, I work on cybersecurity, DevOps, webservices, and developer tooling, primarily using Rust, Python, PostgreSQL, Kubernetes, and GCP.
+I am a Korean software engineer based in Colorado, from Seoul. At **Soundpatrol**, I work on cybersecurity, DevOps, webservices, and developer tooling, primarily using Rust, Python, PostgreSQL, Kubernetes, and GCP.
 
 I believe in building services that make effective use of modern hardware and programming languages. I enjoy working through concurrency, database queries, memory use, and deployment, and I want to work with people who take pride in their craft.
 
