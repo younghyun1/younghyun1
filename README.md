@@ -14,9 +14,9 @@ I develop backend services and internal tools, maintain cloud infrastructure and
 
 ## Earlier work
 
-- **Samsung C&T digital twin, through EAN Technology:** Led Rust/Axum backend and infrastructure development for a system integrating thousands of building sensors. Simplified the architecture and reduced monthly cloud spending from approximately $5,000 to $150; brought many previously multi-second P99 request paths into single- or double-digit milliseconds.
-- **Hyundai, Kia, and Genesis apps, through GenesisNest:** Contributed Java/Spring Boot APIs, integrations, and Rust/Python internationalization pipelines for official automotive applications.
-- **YouTube analytics, at pampam:** Designed a Rust/PostgreSQL backend and data-collection workflows covering tens of millions of comments and users, with model-assisted summaries and deployment on AWS and GCP.
+- **Samsung C&T HQ digital twin:** Led Rust/Axum backend and infrastructure development for a system integrating thousands of building sensors. Simplified the architecture and reduced monthly cloud spending from approximately $5,000 to $150; brought many previously multi-second P99 request paths into single- or double-digit milliseconds.
+- **Hyundai, Kia, and Genesis official apps:** Contributed Java/Spring Boot APIs, integrations, and Rust/Python internationalization pipelines for official automotive applications.
+- **YouTube analytics for Pampam Inc.:** Designed a Rust/PostgreSQL backend and data-collection workflows covering tens of millions of comments and users, with model-assisted summaries and deployment on AWS and GCP.
 
 ## Projects
 
